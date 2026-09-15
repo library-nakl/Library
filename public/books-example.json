@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "الأيام",
+    "author": "طه حسين",
+    "libraryType": "ثقافية",
+    "section": "الأدب",
+    "stand": 2,
+    "shelf": 4,
+    "number": 17
+  },
+  {
+    "id": 2,
+    "name": "تاريخ مصر القومي",
+    "author": "عبد الرحمن الرافعي",
+    "libraryType": "ثقافية",
+    "section": "التاريخ",
+    "stand": 1,
+    "shelf": 3,
+    "number": 8
+  },
+  {
+    "id": 3,
+    "name": "مبادئ علم النفس",
+    "author": "أحمد عزت راجح",
+    "libraryType": "ثقافية",
+    "section": "علم النفس",
+    "stand": 3,
+    "shelf": 2,
+    "number": 11
+  },
+  {
+    "id": 4,
+    "name": "أساسيات الحاسب الآلي",
+    "author": "مثال تجريبي",
+    "libraryType": "علمية",
+    "section": "الحاسب الآلي",
+    "stand": 4,
+    "shelf": 1,
+    "number": 5
+  }
+]
