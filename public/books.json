@@ -6654,7 +6654,7 @@
     "name": "الساعة 2.05 بدأ الطوفان",
     "author": "حمدي الكنيسي",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 20,
     "number": 17
@@ -6664,7 +6664,7 @@
     "name": "معاهدة 1936 وأثرها في العلاقات المصرية البريطانية",
     "author": "الدكتور محمد فريد حشيش",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 18,
     "number": 11
@@ -6674,7 +6674,7 @@
     "name": "الانفجار 1967",
     "author": "محمد حسنين هيكل",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 18,
     "number": 1
@@ -6774,7 +6774,7 @@
     "name": "أشعار توفيق الحكيم",
     "author": "ابراهيم عبدالعزيز",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 5,
     "shelf": 17,
     "number": 8
@@ -7414,17 +7414,17 @@
     "name": "فرسان علي درب النصر",
     "author": "لواء أ ح / علي احمد صالح",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 19,
     "number": 1
   },
   {
     "id": 759,
-    "name": "وصف مصر المصريون المحدثون",
+    "name": "موسوعة وصف مصر المصريون المحدثون",
     "author": "علماء الحملة الفرنسية",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 19,
     "number": 15
@@ -7561,7 +7561,7 @@
   },
   {
     "id": 773,
-    "name": "وصف مصر",
+    "name": "موسوعة وصف مصر",
     "author": "علماء الحملة الفرنسية",
     "libraryType": "ثقافية",
     "section": "التاريخ",
@@ -7734,7 +7734,7 @@
     "name": "الدبلوماسية المصرية وأزمة السويس",
     "author": "فطين احمد فريد علي",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 18,
     "number": 3
@@ -7744,17 +7744,17 @@
     "name": "واحات مصر المجلد الاول واحة سيوة",
     "author": "احمد فخري",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 18,
     "number": 7
   },
   {
     "id": 792,
-    "name": "مصر والدولة العثماني",
+    "name": "مصر والدولة العثمانية",
     "author": "فطين احمد فريد علي",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 18,
     "number": 10
@@ -7764,7 +7764,7 @@
     "name": "ثورة 23 يوليو 1952 من التنظيم السري إلي سقوط فاروق",
     "author": "فطين أحمد فريد علي",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 18,
     "number": 2
@@ -7774,7 +7774,7 @@
     "name": "الصحراء المصرية جبانة البجوات في الواحة الخارجة",
     "author": "احمد فخري",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 18,
     "number": 5
@@ -7784,7 +7784,7 @@
     "name": "تاريخ العمارة المصرية القديمة الجزء الأول",
     "author": "اسكندر بدوي",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 18,
     "number": 6
@@ -7794,27 +7794,27 @@
     "name": "القوات الجوية من إعادة البناء إلي نصر اكتوبر",
     "author": "محمد حسني مبارك",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 18,
     "number": 9
   },
   {
     "id": 797,
-    "name": "إيمحت إله الطب والهندسة",
-    "author": "هاري",
+    "name": "إيمحتب إله الطب والهندسة",
+    "author": "ج . هاري",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 18,
     "number": 4
   },
   {
     "id": 798,
-    "name": "لمصر : لا لعبدالناصر",
+    "name": "لمصر .. لا لعبدالناصر",
     "author": "محمد حسين هيكل",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 18,
     "number": 8
@@ -7831,7 +7831,7 @@
   },
   {
     "id": 800,
-    "name": "المشي الجمسي الجنرال الصامت",
+    "name": "المشير الجمسي الجنرال الصامت",
     "author": "يوسف حسن يوسف",
     "libraryType": "ثقافية",
     "section": "التاريخ",
@@ -7871,7 +7871,7 @@
   },
   {
     "id": 804,
-    "name": "الوجة الاخر للميدالية حرب السويس1956",
+    "name": "الوجه الاخر للميدالية حرب السويس1956",
     "author": "يحي محمود الشاعر",
     "libraryType": "ثقافية",
     "section": "التاريخ",
@@ -7891,8 +7891,8 @@
   },
   {
     "id": 806,
-    "name": "عهدي خديو مصر الاخير",
-    "author": "عباس حلمي الثاني",
+    "name": "عهدي مذكرات عباس حلمي الثاني خديو مصر الأخير 1892-1914",
+    "author": "دار الشروق",
     "libraryType": "ثقافية",
     "section": "التاريخ",
     "stand": 5,
@@ -7954,7 +7954,7 @@
     "name": "الجيش والاسطول المصري في العصر الاسلامي",
     "author": "محمد احمد عبد اللطيف",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 20,
     "number": 3
@@ -7964,7 +7964,7 @@
     "name": "الجيش والثورة قصة الايام الاخيرة",
     "author": "مصطفي بكري",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 20,
     "number": 11
@@ -7974,7 +7974,7 @@
     "name": "المعارك الحربية علي الجبهة المصرية",
     "author": "جمال حماد",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 20,
     "number": 7
@@ -7984,7 +7984,7 @@
     "name": "حكام مصر من الفراعنة الي اليوم",
     "author": "ناصر الأنصاري",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 20,
     "number": 32
@@ -7994,7 +7994,7 @@
     "name": "محمد علي باشا",
     "author": "منير غبور - أحمد عثمان",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 20,
     "number": 8
@@ -8004,7 +8004,7 @@
     "name": "أنا وعبدالناصر والسادات سطور من السيرة الذاتية",
     "author": "عبدة مباشر",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 20,
     "number": 19
@@ -8014,7 +8014,7 @@
     "name": "حرب رمضان",
     "author": "اللواء حسن البدري",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 20,
     "number": 5
@@ -8024,7 +8024,7 @@
     "name": "ناصر 56",
     "author": "محفوظ عبدالرحمن",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 20,
     "number": 14
@@ -8034,7 +8034,7 @@
     "name": "ناصر 1956",
     "author": "محفوظ عبدالرحمن",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 20,
     "number": 27
@@ -8044,7 +8044,7 @@
     "name": "تاريخ الخديوي محمد باشا توفيق",
     "author": "عزيز زند",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 20,
     "number": 16
@@ -8054,7 +8054,7 @@
     "name": "تاريخ الخديوي",
     "author": "عزيز زند",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 20,
     "number": 36
@@ -8064,7 +8064,7 @@
     "name": "هذه هي مصر",
     "author": "وسيم السيسي",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 20,
     "number": 42
@@ -8074,17 +8074,17 @@
     "name": "كليبر في مصر",
     "author": "هنري لورنس",
     "libraryType": "ثقافية",
-    "section": "التاريخ",
+    "section": "تاريخ",
     "stand": 5,
     "shelf": 20,
     "number": 43
   },
   {
     "id": 825,
-    "name": "في تاريخ الادب الجاهلي",
+    "name": "في تاريخ الأدب الجاهلي",
     "author": "علي الجندي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 3
@@ -8094,7 +8094,7 @@
     "name": "عيون الشعر العربي القديم",
     "author": "علي الجندي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أدب",
     "stand": 5,
     "shelf": 17,
     "number": 61
@@ -8104,27 +8104,27 @@
     "name": "الانسة ك",
     "author": "مصطفي أمين",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 57
   },
   {
     "id": 828,
-    "name": "حول العلم في 200 يوم",
+    "name": "حول العالم في 200 يوم",
     "author": "أنيس منصور",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أدب",
     "stand": 5,
     "shelf": 17,
     "number": 74
   },
   {
     "id": 829,
-    "name": "كلكا مش الانسان والخلود",
+    "name": "كلكامش الانسان والخلود",
     "author": "عبدالحكيم الزنون",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 68
@@ -8134,7 +8134,7 @@
     "name": "من وحي الشروق",
     "author": "بديع محمد جمعة",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 70
@@ -8144,7 +8144,7 @@
     "name": "أيام شبابي",
     "author": "إحسان عبدالقدوس",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 33
@@ -8154,7 +8154,7 @@
     "name": "الطبل",
     "author": "فاضل السباعي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 42
@@ -8164,7 +8164,7 @@
     "name": "ومعي نصف القمر",
     "author": "فؤاد طلبة",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 43
@@ -8174,7 +8174,7 @@
     "name": "حلم اخر الليل",
     "author": "محمد عبدالحليم عبدالله",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 25
@@ -8184,7 +8184,7 @@
     "name": "بريق في السحاب",
     "author": "ثروت أباظة",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 26
@@ -8194,7 +8194,7 @@
     "name": "ذات مساء وقصص أخري",
     "author": "امير سلامة",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 24
@@ -8204,7 +8204,7 @@
     "name": "عقلي وقلبي",
     "author": "إحسان عبدالقدوس",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 23
@@ -8214,7 +8214,7 @@
     "name": "فات الميعاد",
     "author": "عبدالحميد جودة",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 22
@@ -8224,7 +8224,7 @@
     "name": "كل الانهار",
     "author": "فاروق خورشيد",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 21
@@ -8234,7 +8234,7 @@
     "name": "عمار يا مصر",
     "author": "طة وادي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 28
@@ -8244,7 +8244,7 @@
     "name": "الدنيا فوضي",
     "author": "علي احمد",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 44
@@ -8254,7 +8254,7 @@
     "name": "رسالة في الصبابة والوجد",
     "author": "جمال الغيطاني",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 45
@@ -8264,7 +8264,7 @@
     "name": "شمس الاصيل في امريكا",
     "author": "محمد الجواد",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 46
@@ -8274,7 +8274,7 @@
     "name": "لمحات من حياتي",
     "author": "ثروت أباظة",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 47
@@ -8284,7 +8284,7 @@
     "name": "حوار الإستشراق",
     "author": "احمد الشيخ",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 66
@@ -8294,7 +8294,7 @@
     "name": "البيئة والمجتمع",
     "author": "محمد السيد غلاب",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 2
@@ -8304,7 +8304,7 @@
     "name": "قصص وطرائف من كتب التاريخ",
     "author": "صلاح شعراوي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 49
@@ -8314,7 +8314,7 @@
     "name": "ست نساء وست رجال",
     "author": "يوسف السباعي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 48
@@ -8324,7 +8324,7 @@
     "name": "إذا كنت نائما في مركب نوح",
     "author": "سركون بولص",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 18
@@ -8334,7 +8334,7 @@
     "name": "قوس الليل قوس النهار",
     "author": "محمد الفيتوري",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 41
@@ -8344,7 +8344,7 @@
     "name": "الليالي",
     "author": "طه وادي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 20
@@ -8354,7 +8354,7 @@
     "name": "الزيني بركات",
     "author": "جمال الغيطاني",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 38
@@ -8364,7 +8364,7 @@
     "name": "الكهف السحري",
     "author": "طه وادي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 26
@@ -8374,7 +8374,7 @@
     "name": "رحلة في احراش الليل",
     "author": "حميده قطب",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 31
@@ -8384,7 +8384,7 @@
     "name": "شيلوك الجديد",
     "author": "علي احمد",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 51
@@ -8394,7 +8394,7 @@
     "name": "حرب البسوس",
     "author": "علي احمد",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 54
@@ -8404,7 +8404,7 @@
     "name": "العصافير الخرساء",
     "author": "عبدالوهاب مطاوع",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 53
@@ -8414,7 +8414,7 @@
     "name": "الدودة والثعبان",
     "author": "علي احمد",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 52
@@ -8424,7 +8424,7 @@
     "name": "الغفران",
     "author": "ثروت أباظة",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 34
@@ -8434,7 +8434,7 @@
     "name": "طارق من السماء",
     "author": "ثروت أباظة",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 35
@@ -8444,7 +8444,7 @@
     "name": "طائر في العنق",
     "author": "ثروت أباظة",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 29
@@ -8454,7 +8454,7 @@
     "name": "قصر العيني",
     "author": "محمد عباس",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 73
@@ -8464,7 +8464,7 @@
     "name": "تجربة السجن في الشعر الاندلسي",
     "author": "رشا عبدالله",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 19
@@ -8474,7 +8474,7 @@
     "name": "النخيل الملكي",
     "author": "محمد عبدالسلام العمري",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 30
@@ -8484,7 +8484,7 @@
     "name": "الزنبقة السوداء",
     "author": "الكسندر دوماس",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 32
@@ -8494,7 +8494,7 @@
     "name": "في قافلة الزمان",
     "author": "عبدالحميد جودة",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 37
@@ -8504,17 +8504,17 @@
     "name": "كوميديا الأشباح",
     "author": "فاضل العزاوي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 16
   },
   {
     "id": 868,
-    "name": "غرابيل لطة حسين",
+    "name": "غرابيل لطه حسين",
     "author": "محمد سيد كيلاني",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 6
@@ -8524,7 +8524,7 @@
     "name": "الطب في الشعر العربي",
     "author": "محمد عبدالرحيم",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 10
@@ -8534,37 +8534,37 @@
     "name": "نوادر البخلاء والطفيلين",
     "author": "ناديم كامل",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 69
   },
   {
     "id": 871,
-    "name": "منة ادب الفرس والترك",
+    "name": "من أدب الفرس والترك",
     "author": "حسين مجيب المصري",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 58
   },
   {
     "id": 872,
-    "name": "هارب من الأيام . شي من الخوف .قصر علي النيل . نقوش من ذهب ونحاس",
+    "name": "ثروت أباظة",
     "author": "عبدالعزيز شرف",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 60
   },
   {
     "id": 873,
-    "name": "أشهر الأسرات الادبية في مصر",
+    "name": "أشهر الأسرات الأدبية في مصر",
     "author": "نجيب توفيق",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 59
@@ -8574,7 +8574,7 @@
     "name": "القاتل والمقتول",
     "author": "أجاتا كريستي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 27
@@ -8584,7 +8584,7 @@
     "name": "الشريف الرضي",
     "author": "عبداللطيف شرارة",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 1
@@ -8594,7 +8594,7 @@
     "name": "جنون الإنتقام",
     "author": "أجاتا كريستي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 72
@@ -8604,7 +8604,7 @@
     "name": "الغيرة القاتلة",
     "author": "أجاتا كريستي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 67
@@ -8614,7 +8614,7 @@
     "name": "رجل بلا وجة",
     "author": "اجاتا كريستي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 64
@@ -8624,7 +8624,7 @@
     "name": "ساحر النساء",
     "author": "اجاتا كريستي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 65
@@ -8634,7 +8634,7 @@
     "name": "المتحف الحربي القومي",
     "author": "دار الدفاع للصحافة والنشر",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 55
@@ -8644,7 +8644,7 @@
     "name": "معاناة ومعايير من جمال في طائفة من القصائد الجاهلية والمخضرمة",
     "author": "هاشم ياغي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 7
@@ -8654,7 +8654,7 @@
     "name": "دكريات لا مذكرات",
     "author": "ثروت أباظة",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 9
@@ -8664,7 +8664,7 @@
     "name": "نوادر الشعراء ابي نواس ابي دلامة",
     "author": "نديم كامل",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 71
@@ -8674,7 +8674,7 @@
     "name": "بصمات الأصابع",
     "author": "اجاتا كريستي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 11
@@ -8684,17 +8684,17 @@
     "name": "رحلات شاب مسلم في الهند وبريطانيا وامريكا وايطاليا",
     "author": "محمد الجوادي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "اادب",
     "stand": 5,
     "shelf": 17,
     "number": 12
   },
   {
     "id": 886,
-    "name": "الادب الكبير والادب الصغير",
+    "name": "الأدب الكبير والادب الصغير",
     "author": "غبن المقفع",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 15
@@ -8704,7 +8704,7 @@
     "name": "ساعة الصفر",
     "author": "أجاتا كريستي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 50
@@ -8714,7 +8714,7 @@
     "name": "المحروسة 2015",
     "author": "سعد الدين وهبة",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 14
@@ -8724,7 +8724,7 @@
     "name": "أخبار ابي نواس",
     "author": "ابن منظور المصري",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 13
@@ -8734,7 +8734,7 @@
     "name": "الفن العربي الإسلامي",
     "author": "محمد حسين جودي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 4
@@ -8744,7 +8744,7 @@
     "name": "ثلاثية فلسطينن",
     "author": "نبيل خوري",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 56
@@ -8754,7 +8754,7 @@
     "name": "وصف مصر",
     "author": "مكتبة الأسرة",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 16
@@ -8764,7 +8764,7 @@
     "name": "نزار كوباني والثورة العربية",
     "author": "صبري العسكري",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "ادب",
     "stand": 5,
     "shelf": 17,
     "number": 40
@@ -9214,7 +9214,7 @@
     "name": "مؤلفات يسري الجندي",
     "author": "يسري الجندي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أدب",
     "stand": 5,
     "shelf": 17,
     "number": 62
@@ -9224,7 +9224,7 @@
     "name": "مؤلفات يسري الجندي",
     "author": "يسري الجندي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أدب",
     "stand": 5,
     "shelf": 17,
     "number": 63
@@ -9234,7 +9234,7 @@
     "name": "السلام",
     "author": "د عمرو عبدالسميع",
     "libraryType": "ثقافية",
-    "section": "العلوم الإجتماعية",
+    "section": "العلوم الاجتماعية",
     "stand": 2,
     "shelf": 7,
     "number": 24
@@ -9314,7 +9314,7 @@
     "name": "وعليكم السلام",
     "author": "محمود عوض",
     "libraryType": "ثقافية",
-    "section": "العلوم الإجتماعية",
+    "section": "العلوم الغجتماعية",
     "stand": 2,
     "shelf": 7,
     "number": 12
@@ -9584,7 +9584,7 @@
     "name": "السلام المدان",
     "author": "منير الحمش",
     "libraryType": "ثقافية",
-    "section": "العلوم الإجتماعية",
+    "section": "العلوم الإجتماعيىة",
     "stand": 2,
     "shelf": 7,
     "number": 6
@@ -9934,7 +9934,7 @@
     "name": "النظام القانوني الدولي في مفترق الطرق",
     "author": "إبراهيم العناني",
     "libraryType": "ثقافية",
-    "section": "العلوم الإجتماعية",
+    "section": "العوم الإجتماعية",
     "stand": 2,
     "shelf": 8,
     "number": 21
@@ -10354,7 +10354,7 @@
     "name": "جيولوجيا هندسية",
     "author": "مجدي زايد",
     "libraryType": "ثقافية",
-    "section": "العلوم التطبيقية",
+    "section": "العلوم التطيقية",
     "stand": 4,
     "shelf": 13,
     "number": 33
@@ -11004,7 +11004,7 @@
     "name": "كهرباء السيارات مع التطبيقات العملية",
     "author": "عطية علي عطية",
     "libraryType": "ثقافية",
-    "section": "العلوم التطبيقية",
+    "section": "العلوم التطبيقة",
     "stand": 4,
     "shelf": 14,
     "number": 1
@@ -11481,7 +11481,7 @@
   },
   {
     "id": 1182,
-    "name": "الحاسوب وتطبيقاته لطلاب كلية الادب والإعلام ودار العلوم",
+    "name": "الحاسوب وتطبيقاته لطلاب كلية الأداب والإعلام ودار العلوم",
     "author": "محمد سالم غنيم",
     "libraryType": "ثقافية",
     "section": "المعارف العامة",
@@ -11794,7 +11794,7 @@
     "name": "مدخل إلي عالم الظواهر الخارقة",
     "author": "ممدوح الشيخ",
     "libraryType": "ثقافية",
-    "section": "الفلسفة وعلم النفس",
+    "section": "الفلسقة وعلم النفس",
     "stand": 1,
     "shelf": 3,
     "number": 8
@@ -12044,7 +12044,7 @@
     "name": "روشتة السعادة ومهارات حياتية",
     "author": "ممدوح عماد الدين",
     "libraryType": "ثقافية",
-    "section": "الفلسفة وعلم النفس",
+    "section": "الفسلفة وعلم النفس",
     "stand": 1,
     "shelf": 3,
     "number": 64
@@ -12224,7 +12224,7 @@
     "name": "السعادة والتفائل وصناعة الأمل",
     "author": "أسامة عبدالرحمن",
     "libraryType": "ثقافية",
-    "section": "الفلسفة وعلم النفس",
+    "section": "الفلسة وعلم النفس",
     "stand": 1,
     "shelf": 3,
     "number": 46
@@ -12264,7 +12264,7 @@
     "name": "علم النفس التربوي",
     "author": "الحسين محمد عبدالمنعم",
     "libraryType": "ثقافية",
-    "section": "الفلسفة وعلم النفس",
+    "section": "الفسفة وعلم النفس",
     "stand": 1,
     "shelf": 3,
     "number": 42
@@ -14204,7 +14204,7 @@
     "name": "فريد الأطرش أسمهان",
     "author": "رتيبة الحفني",
     "libraryType": "ثقافية",
-    "section": "الفنون",
+    "section": "االفنون",
     "stand": 4,
     "shelf": 15,
     "number": 37
@@ -14294,7 +14294,7 @@
     "name": "بين أمرئ القيس ووليام شكسبير",
     "author": "توفيق علي منصور",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 1
@@ -14304,7 +14304,7 @@
     "name": "المفكر الناقض",
     "author": "محمد سيف الإسلام",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 2
@@ -14314,7 +14314,7 @@
     "name": "أساطير شكسبير",
     "author": "توفيق منصور",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 3
@@ -14324,7 +14324,7 @@
     "name": "تهافت الفلسفة",
     "author": "الأمام الغزالي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 4
@@ -14334,7 +14334,7 @@
     "name": "التصوف خلاص الإنسان",
     "author": "محمد ممدوح",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 5
@@ -14344,7 +14344,7 @@
     "name": "يحي حقي الأعمال المجهولة والمنسية",
     "author": "محمود علي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 6
@@ -14354,7 +14354,7 @@
     "name": "هندسة الرواية دراسة في بناية السرد الموازي عند محمد قطب",
     "author": "عبدالمنعم زكريا القاضي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 7
@@ -14364,7 +14364,7 @@
     "name": "التطرف الفكري",
     "author": "محمد أحمد العيسوي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 8
@@ -14374,7 +14374,7 @@
     "name": "العقل الباطل",
     "author": "سلامة موسي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 9
@@ -14384,7 +14384,7 @@
     "name": "نظرية السياحة",
     "author": "غادة علي حمود",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 10
@@ -14394,7 +14394,7 @@
     "name": "إتجاهات حديثة في البحث التربوي",
     "author": "سمير عبدالوهاب",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 11
@@ -14404,7 +14404,7 @@
     "name": "صناعة مستقبل التعليم الجامعي بين أرادة التغيير وإدارته",
     "author": "مجدي عبدالوهاب قاسم",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 12
@@ -14414,7 +14414,7 @@
     "name": "تجليات السرد (في الشعر العربي الحديث)",
     "author": "شوكت نبيل المصري",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 13
@@ -14424,7 +14424,7 @@
     "name": "المفارقة والقناع في الشعر العربي المعاصر",
     "author": "مروة محمود الشرقاوي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 14
@@ -14434,7 +14434,7 @@
     "name": "الأصول الفلسفية للتربية",
     "author": "سعيد إسناعيل علي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 15
@@ -14444,17 +14444,17 @@
     "name": "الوجود بين الإسلام والحضارة الغربية",
     "author": "خالد الحاج عبد المحمود",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 16
   },
   {
     "id": 1480,
-    "name": "جماليات النص الشعري في الادب العربي القديم",
+    "name": "جماليات النص الشعري في الأدب العربي القديم",
     "author": "عاطف عبداللطيف السيد",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 17
@@ -14464,7 +14464,7 @@
     "name": "هيكل الأخر",
     "author": "مفيد فوزي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 18
@@ -14474,7 +14474,7 @@
     "name": "المفارقة والقناع في الشعر العربي المعاصر",
     "author": "مروة محمود الشرقاوي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 19
@@ -14484,7 +14484,7 @@
     "name": "التفكير النقضي عند العرب",
     "author": "فاطمة إسماعيل",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 20
@@ -14494,7 +14494,7 @@
     "name": "التربية بين الأصالة والمعاصرة",
     "author": "راضي عبدالمجيد طه",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 21
@@ -14504,7 +14504,7 @@
     "name": "محاضرات الموسم الثقافي لمركز تحقيق التراس",
     "author": "حسام أحمد عبدالظاهر",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 22
@@ -14514,7 +14514,7 @@
     "name": "الإسلام والإهتمام بإنجاز الأعمال في المجالات المختلفة في المواعيد المحددة لها",
     "author": "بيلي إبراهيم أحمد العليمي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 23
@@ -14524,7 +14524,7 @@
     "name": "الرثاء في شعر حافظ إبراهيم دراسة موضوعية موازنة",
     "author": "مصطفي مصطفي عطا",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 24
@@ -14534,7 +14534,7 @@
     "name": "أليات السرد بين الشفاهية والكتابية (السيرة الهلالية ورواية مراعي القتل)",
     "author": "سيف ضيف الله",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 25
@@ -14544,7 +14544,7 @@
     "name": "الإقتصاد الثقافي",
     "author": "فؤاد عبدالمنعم البكري",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 26
@@ -14554,7 +14554,7 @@
     "name": "الإتجاه الديني",
     "author": "غريب محمد علي أحمد",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 27
@@ -14564,7 +14564,7 @@
     "name": "أنشودة النابالم",
     "author": "صديق محمد جوهر",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 28
@@ -14574,7 +14574,7 @@
     "name": "شايلوك في مروج الجليل",
     "author": "صديق محمد جهر",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 29
@@ -14584,7 +14584,7 @@
     "name": "نظرية الغلط البين في قضاء الإلغاء",
     "author": "محمود سلامة جبر",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 30
@@ -14594,7 +14594,7 @@
     "name": "مثقفون بلا حدود",
     "author": "فهد سالم خليل",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 31
@@ -14604,7 +14604,7 @@
     "name": "أسرار كتابة السيناريو",
     "author": "وليد سيف",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 32
@@ -14614,7 +14614,7 @@
     "name": "العائش في السرد",
     "author": "جودة عطية",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 33
@@ -14624,7 +14624,7 @@
     "name": "جوابات جراجي القط",
     "author": "عبدالرحمن الأبنودي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 34
@@ -14634,7 +14634,7 @@
     "name": "ملامح روائية",
     "author": "محمد عطية محمود",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 35
@@ -14644,7 +14644,7 @@
     "name": "تحيا حمهورية مصر العربية",
     "author": "مها الغنام",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 36
@@ -14654,7 +14654,7 @@
     "name": "روائية فنية لتشكيل القصيدة الجاهلية",
     "author": "محمد مصطفي منصور",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 37
@@ -14664,7 +14664,7 @@
     "name": "مدخل إلي علم الإجتماع",
     "author": "أمينة بيومي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 38
@@ -14674,7 +14674,7 @@
     "name": "علم النفس والحياه",
     "author": "وليم سيرجيوس",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 39
@@ -14684,7 +14684,7 @@
     "name": "حكايات الجنوب",
     "author": "أحمد توفيق",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 40
@@ -14694,7 +14694,7 @@
     "name": "أحوال ومقامات",
     "author": "عبدالكريم كاصد",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 41
@@ -14704,7 +14704,7 @@
     "name": "ماتيرا",
     "author": "محمد مسعد محمد",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 42
@@ -14714,7 +14714,7 @@
     "name": "برازيانا",
     "author": "أحمد إسماعيل",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 43
@@ -14724,7 +14724,7 @@
     "name": "غلطة عمري",
     "author": "عاطف عبدالحميد",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 44
@@ -14734,7 +14734,7 @@
     "name": "أوهام إرهابي",
     "author": "أشرف مجاهد",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 45
@@ -14744,7 +14744,7 @@
     "name": "خالدة مجاهد",
     "author": "زينب أبو النجا",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 46
@@ -14754,7 +14754,7 @@
     "name": "ثلاثية زودياك حين يأتي الخوف",
     "author": "دار فانتا زيون للنشر",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 47
@@ -14764,7 +14764,7 @@
     "name": "البدائع والطرائف",
     "author": "جبران خليل جبران",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 48
@@ -14774,7 +14774,7 @@
     "name": "الديني والسياسي وأشكالية الدولة الحديثة",
     "author": "احمد فايز",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 49
@@ -14784,7 +14784,7 @@
     "name": "الهلالي مسرحية",
     "author": "بكري عبدالحميد",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 50
@@ -14794,7 +14794,7 @@
     "name": "حكايات مسافر",
     "author": "مصطفي محمود",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 51
@@ -14804,7 +14804,7 @@
     "name": "الأعمال الشرعية الكاملة",
     "author": "أحمد عنتر مصطفي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 52
@@ -14814,7 +14814,7 @@
     "name": "ربيع التوت",
     "author": "سيد الشبراوي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 53
@@ -14824,7 +14824,7 @@
     "name": "sI14",
     "author": "مجدي محمد إسماعيل",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 54
@@ -14834,7 +14834,7 @@
     "name": "عزباء الحي",
     "author": "محمد حسين",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 55
@@ -14844,7 +14844,7 @@
     "name": "لعنة المغتلث",
     "author": "أحمد شعبان الكاشف",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 56
@@ -14854,7 +14854,7 @@
     "name": "عاهدتك",
     "author": "سيد جمال",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 57
@@ -14864,7 +14864,7 @@
     "name": "مدينة القاع",
     "author": "محمود ال - خليفة",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 58
@@ -14874,7 +14874,7 @@
     "name": "عناق القلم بفصول الروح",
     "author": "نادين عمر",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 59
@@ -14884,7 +14884,7 @@
     "name": "الماجريات",
     "author": "إبراهيم بن عمر السكران",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 60
@@ -14894,7 +14894,7 @@
     "name": "من يرحم إبراهيم",
     "author": "جمال أبو القديم",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 61
@@ -14904,7 +14904,7 @@
     "name": "الحارس والليلة الأخيرة",
     "author": "محمد حسين",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 62
@@ -14914,17 +14914,17 @@
     "name": "خلف عيون الزمن",
     "author": "هدي أبو العلا",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 63
   },
   {
     "id": 1527,
-    "name": "خواطر ادبية ودنينية لمفكرة خبير قضائي",
+    "name": "خواطر أدبية ودنينية لمفكرة خبير قضائي",
     "author": "رضا فهيم",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 64
@@ -14934,7 +14934,7 @@
     "name": "فعل ماضي",
     "author": "محمد عبدالباقي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 65
@@ -14944,7 +14944,7 @@
     "name": "اللهو الخفي",
     "author": "لطفي البحيري",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 66
@@ -14954,7 +14954,7 @@
     "name": "دم مصري",
     "author": "محمود أحمد رمضان",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 67
@@ -14964,7 +14964,7 @@
     "name": "تذكار الماضي",
     "author": "أيليا أبو ماضي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 68
@@ -14974,7 +14974,7 @@
     "name": "العذراء الحديدية",
     "author": "نبيل نزيه",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 69
@@ -14984,7 +14984,7 @@
     "name": "الحاوي",
     "author": "حسام حسين",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 70
@@ -14994,7 +14994,7 @@
     "name": "خلو الباب",
     "author": "يوسف إدريس",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 71
@@ -15004,7 +15004,7 @@
     "name": "مصر في زمن الكوسة",
     "author": "محمد إسماعيل",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 72
@@ -15014,7 +15014,7 @@
     "name": "دم الحسين",
     "author": "إبراهيم عيسي",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 73
@@ -15024,7 +15024,7 @@
     "name": "رحلة إلي الزات",
     "author": "علي مبروك عمرو",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 74
@@ -15034,7 +15034,7 @@
     "name": "العنكبوت",
     "author": "مصطفي محمود",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 75
@@ -15044,7 +15044,7 @@
     "name": "وبدأ العد التنازلي",
     "author": "مصطفي محمود",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 76
@@ -15054,9 +15054,2149 @@
     "name": "في الحب والحياة",
     "author": "مصطفي محمود",
     "libraryType": "ثقافية",
-    "section": "الأدب",
+    "section": "أداب",
     "stand": 4,
     "shelf": 16,
     "number": 77
+  },
+  {
+    "id": 1542,
+    "name": "قاموس أطلس الموسوعي إنجليزي - عربي",
+    "author": "دار أطلس للنشر",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 1
+  },
+  {
+    "id": 1543,
+    "name": "toefl",
+    "author": "patricia noble sullivan",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 2
+  },
+  {
+    "id": 1549,
+    "name": "Military Review The Professional of the US Army",
+    "author": "HONORABLE JOHN O.MARSH JR.",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 3
+  },
+  {
+    "id": 1550,
+    "name": "DEMOCRACY AND POLITICAL PLURALISM in Eritrea",
+    "author": "MOHAMMED O.Abo Bakr",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 4
+  },
+  {
+    "id": 1551,
+    "name": "L.AFFAIRE LOCKERBIT et I.Avener de 1.Ordre Internateona1",
+    "author": "un groupe d.experts et de rechercheurs",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 5
+  },
+  {
+    "id": 1552,
+    "name": "MILITARY HELICOPTERS",
+    "author": "E J Everett-Heath",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 6
+  },
+  {
+    "id": 1553,
+    "name": "DEVELOPING SKILLS",
+    "author": "L. G. Alexander",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 7
+  },
+  {
+    "id": 1554,
+    "name": "FIRST THINGS FIRST",
+    "author": "L. G. Alexander",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 8
+  },
+  {
+    "id": 1555,
+    "name": "PRACTICE AND PROGRESS",
+    "author": "L. G. Alexander",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 9
+  },
+  {
+    "id": 1556,
+    "name": "FLUENCY IN ENGLISH",
+    "author": "L. G. Alexander",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 10
+  },
+  {
+    "id": 1557,
+    "name": "DIRECTORY OF MEMBERS THE SOCIETY FOR MILITARY HISTORY",
+    "author": "The Society For Military history",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 11
+  },
+  {
+    "id": 1558,
+    "name": "INTERNTIONAL REVIEW OF THE RED CROSS",
+    "author": "----",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 12
+  },
+  {
+    "id": 1559,
+    "name": "MILESTONES OF FLIGHT",
+    "author": "MICHAEL J. H. TAYLOR",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 13
+  },
+  {
+    "id": 1560,
+    "name": "LOOK. LISTEN AND LEARN!",
+    "author": "L G Alexander",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 14
+  },
+  {
+    "id": 1561,
+    "name": "The Journal of Military History",
+    "author": "Military History",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 15
+  },
+  {
+    "id": 1562,
+    "name": "The Ramadan War 1973",
+    "author": "Badri Magdoub Zohdy",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 16
+  },
+  {
+    "id": 1563,
+    "name": "Whit Paper on Afro - Arab Co - Operation",
+    "author": "Arab Republic",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 17
+  },
+  {
+    "id": 1564,
+    "name": "الافعال المركبة في اللغة الانجليزية",
+    "author": "هند النجار",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 18
+  },
+  {
+    "id": 1565,
+    "name": "Finding The Titanic",
+    "author": "Robert D. Ballard . discoverer of the Titanic",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 19
+  },
+  {
+    "id": 1566,
+    "name": "The Blind Men And The Elephant",
+    "author": "Scholastic",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 20
+  },
+  {
+    "id": 1567,
+    "name": "Cobol : A Simplified Approech",
+    "author": "Seymour c. hirsch",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 9,
+    "number": 21
+  },
+  {
+    "id": 1568,
+    "name": "Komatsu Parts Book",
+    "author": "Komatsu Forklift Co. Ltd . Jaban",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 9,
+    "number": 22
+  },
+  {
+    "id": 1569,
+    "name": "Komatsu Parts Book",
+    "author": "Komatsu Forklift Co. Ltd.",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 23
+  },
+  {
+    "id": 1570,
+    "name": "Macro- Economics",
+    "author": "F.s.Brooman",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 24
+  },
+  {
+    "id": 1571,
+    "name": "Uae Securitity: Proposals for the coming",
+    "author": "david gardham",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 25
+  },
+  {
+    "id": 1572,
+    "name": "Die Grosse Uberquerung-derneue geist agyptens",
+    "author": "erich helmensdorfer",
+    "libraryType": "ثقافية",
+    "section": "لغات الماني",
+    "stand": 3,
+    "shelf": 9,
+    "number": 26
+  },
+  {
+    "id": 1573,
+    "name": "the army quarterly and defence journal",
+    "author": "the army quarterly c. h. stainforth sb. obe",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 27
+  },
+  {
+    "id": 1574,
+    "name": "the army quarterly and defence journal",
+    "author": "army quarterly ltd - london",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 28
+  },
+  {
+    "id": 1575,
+    "name": "the new shakespeare - richard III",
+    "author": "william shakespeare",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 29
+  },
+  {
+    "id": 1576,
+    "name": "a practical english course for foreign studenks book a",
+    "author": "j.s. sneddon.m.a.",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 30
+  },
+  {
+    "id": 1577,
+    "name": "the mayor of casterbridge",
+    "author": "thomas hardy",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 31
+  },
+  {
+    "id": 1578,
+    "name": "the mill on the floss",
+    "author": "george eliot",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 32
+  },
+  {
+    "id": 1579,
+    "name": "look ajain at english book 1",
+    "author": "john wilson",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 33
+  },
+  {
+    "id": 1580,
+    "name": "man and suberman",
+    "author": "bernardshaw",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 34
+  },
+  {
+    "id": 1581,
+    "name": "the teaching of structural words and sentence patterns stages 3 and 4",
+    "author": "a.s. hornby",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 35
+  },
+  {
+    "id": 1582,
+    "name": "the brothers karamazov",
+    "author": "fyodor dostoyevsky",
+    "libraryType": "ثقافية",
+    "section": "لغات اجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 36
+  },
+  {
+    "id": 1583,
+    "name": "the finches - fabulous furnace",
+    "author": "roger drury",
+    "libraryType": "ثقافية",
+    "section": "لغات اجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 37
+  },
+  {
+    "id": 1584,
+    "name": "great expectations",
+    "author": "charles dickens",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 38
+  },
+  {
+    "id": 1585,
+    "name": "shark lady true adventures of euganie clark",
+    "author": "ann mcgovern",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 39
+  },
+  {
+    "id": 1586,
+    "name": "catalogue of the collection of arabic coins preserved in the khedivial library in cairo",
+    "author": "stanley lane. poole",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 9,
+    "number": 40
+  },
+  {
+    "id": 1587,
+    "name": "the invasion of norway",
+    "author": "normen k. lehmkhul",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزي",
+    "stand": 3,
+    "shelf": 9,
+    "number": 41
+  },
+  {
+    "id": 1588,
+    "name": "ybres 1914- death of an army",
+    "author": "a.h. farrar-hockley",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 9,
+    "number": 42
+  },
+  {
+    "id": 1589,
+    "name": "tombes thebaines - la necropole de deir el - medineh",
+    "author": "bernard bruyere",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنساوي",
+    "stand": 3,
+    "shelf": 10,
+    "number": 1
+  },
+  {
+    "id": 1590,
+    "name": "موسوعة وكتلوج العملات المصرية العملات المعدنية",
+    "author": "مجدي حنفي",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 2
+  },
+  {
+    "id": 1591,
+    "name": "english as it should be",
+    "author": "mr . ramy sayed",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 3
+  },
+  {
+    "id": 1592,
+    "name": "ostraca et papyrus coptes du topos de saint - marc a the bes",
+    "author": "anne boudhors",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنساوي",
+    "stand": 3,
+    "shelf": 10,
+    "number": 4
+  },
+  {
+    "id": 1593,
+    "name": "crash course for the sat critical reading",
+    "author": "dr. samuel essam",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 5
+  },
+  {
+    "id": 1594,
+    "name": "monasteres et sites monastiques degybte",
+    "author": "maurice martin",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنسية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 6
+  },
+  {
+    "id": 1595,
+    "name": "البسيط في النحو",
+    "author": "حمدي فاروق احمد عبد الدايم",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 7
+  },
+  {
+    "id": 1596,
+    "name": "l.education des enfants dans l.islam",
+    "author": "abdullah nasih ulwane",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنسية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 8
+  },
+  {
+    "id": 1597,
+    "name": "لسان العرب للامام العلامة ابي الفضل جمال الدين محمد بن مكرم",
+    "author": "ابن منظور الافريقي المصري",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 9
+  },
+  {
+    "id": 1598,
+    "name": "tombs of the couth asasif necropolis",
+    "author": "auc press- american university in cairo press",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 10
+  },
+  {
+    "id": 1599,
+    "name": "the comblete cities of ancient egypt",
+    "author": "steven snape",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 11
+  },
+  {
+    "id": 1600,
+    "name": "a guide of wild medicinal plantsin shalateen- halayeb area egypt",
+    "author": "ahmed a. elkhouly",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 12
+  },
+  {
+    "id": 1601,
+    "name": "droit international prive",
+    "author": "docteur mahmoud yacout",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنسوية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 13
+  },
+  {
+    "id": 1602,
+    "name": "gypsies in sontenporary egypt on the peripheries of society",
+    "author": "alexandra papp",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 14
+  },
+  {
+    "id": 1603,
+    "name": "el velo",
+    "author": "gamel a krim",
+    "libraryType": "ثقافية",
+    "section": "لغات اسبانية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 15
+  },
+  {
+    "id": 1604,
+    "name": "turk edebiyaty uzerine arastirmalar ll",
+    "author": "dr. ahmed moued",
+    "libraryType": "ثقافية",
+    "section": "لغات تركية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 16
+  },
+  {
+    "id": 1605,
+    "name": "english for specific purposes: a reader",
+    "author": "the editors",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 17
+  },
+  {
+    "id": 1606,
+    "name": "موسوعة النظرية الادابية المعاصرة مداخل ,نقاد , مفاهيم (3) مفاهيم",
+    "author": "ايرينار . مكريك",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية - عربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 18
+  },
+  {
+    "id": 1607,
+    "name": "الزلازل القديمة من بعض المصادر العربية وكتالوج الزلازل التاريخية لمنطقة الشرق الاوسط",
+    "author": "سمير رياض",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية - عربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 19
+  },
+  {
+    "id": 1608,
+    "name": "البلاغة العربية تاريخها مصادرها مناهجها",
+    "author": "علي عشري زايد",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 20
+  },
+  {
+    "id": 1609,
+    "name": "شرح المقدمة النحوية للشعراني",
+    "author": "احمد عبد الفتاح الملوي",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 21
+  },
+  {
+    "id": 1610,
+    "name": "التطبيق النحوي",
+    "author": "عبده الراجحي",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 22
+  },
+  {
+    "id": 1611,
+    "name": "اشكاليات لغوية - بضاع",
+    "author": "ابو السعود سالم ابوالسعود",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 23
+  },
+  {
+    "id": 1612,
+    "name": "علم البيان موجز المصطلحات والاسس",
+    "author": "عصام الدين ابو زلال",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 24
+  },
+  {
+    "id": 1613,
+    "name": "درسات لغوية اجتماعية",
+    "author": "حسام البهنساوي",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 25
+  },
+  {
+    "id": 1614,
+    "name": "صناعة المعجم اللعربي الحديث دراسة تطبيقية",
+    "author": "عمرو احمد عطيفي",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 26
+  },
+  {
+    "id": 1615,
+    "name": "البلاغة العربية قراءة تاريخية",
+    "author": "محمد مصطفي ابوشوارب",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 27
+  },
+  {
+    "id": 1616,
+    "name": "انطلوجيا حاسوبية للنحو العربي نحو توصيف منطقي ولساني حديث للغة العربية",
+    "author": "طارق المالكي",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 28
+  },
+  {
+    "id": 1617,
+    "name": "christianity and monasticism in aswan and nubia",
+    "author": "auc press",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 29
+  },
+  {
+    "id": 1618,
+    "name": "الشامل في قواعد اللغة القبطية",
+    "author": "henry tattam",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية - انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 30
+  },
+  {
+    "id": 1619,
+    "name": "التحفة الكمبودية قواعد النحو الاساسية للمبتدئين في تعلم اللغة العربية",
+    "author": "محمود سعيد محمد ابوغزالة",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 31
+  },
+  {
+    "id": 1620,
+    "name": "فصول في علم الدلالة",
+    "author": "فتحي انور عبد المجيد الدابولي",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 32
+  },
+  {
+    "id": 1621,
+    "name": "علم اللغة التطبقي وتعليم العربية لابنائها وغير الناطقين بها",
+    "author": "عبده الراجحي",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 33
+  },
+  {
+    "id": 1622,
+    "name": "the army quarterly c. h. stainforth sb. obe",
+    "author": "auc press",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 34
+  },
+  {
+    "id": 1623,
+    "name": "mohamed khan searching for a knight",
+    "author": "mahmoud abd el shakour",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 35
+  },
+  {
+    "id": 1624,
+    "name": "Turk edebiyati uzerine arastirmalar",
+    "author": "dr. ahmed mourad",
+    "libraryType": "ثقافية",
+    "section": "لغات تركية - وعربية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 36
+  },
+  {
+    "id": 1625,
+    "name": "litterature francoise",
+    "author": "dr: attia elkolaly",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنسية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 37
+  },
+  {
+    "id": 1626,
+    "name": "the twice born and the twise died- a boetic drama",
+    "author": "tawfik ali mansour",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 38
+  },
+  {
+    "id": 1627,
+    "name": "in the company of god - closeness to allah through the beauty of his name and attrobutas",
+    "author": "prof. dr. salm an al-oadah",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية - انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 39
+  },
+  {
+    "id": 1628,
+    "name": "kundin fikihun musulunci a takaice",
+    "author": "dr. saidu usman muhammad alkali",
+    "libraryType": "ثقافية",
+    "section": "لغات الهوسا",
+    "stand": 3,
+    "shelf": 10,
+    "number": 40
+  },
+  {
+    "id": 1629,
+    "name": "failure and strengthening of reinforced concrete structures",
+    "author": "by dr. eng.abdelraouf kassem",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 41
+  },
+  {
+    "id": 1630,
+    "name": "the ldeology of writing",
+    "author": "dr. redwan gabr el sobky",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 42
+  },
+  {
+    "id": 1631,
+    "name": "a guide of wild medicinal plants",
+    "author": "ahmed a. el khouly",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 43
+  },
+  {
+    "id": 1632,
+    "name": "etiquette and ethics in research and publication",
+    "author": "meawad el-kholy",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 44
+  },
+  {
+    "id": 1633,
+    "name": "earth weeps , saturn laughs",
+    "author": "abdulaziz al farsi",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 45
+  },
+  {
+    "id": 1634,
+    "name": "cairo modern",
+    "author": "naguib mahfouz",
+    "libraryType": "ثقافية",
+    "section": "لغت انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 46
+  },
+  {
+    "id": 1635,
+    "name": "mummies. monsters and the ship of millions",
+    "author": "leena pekkalainen",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 47
+  },
+  {
+    "id": 1636,
+    "name": "la mer. l. amour at l. eternel retour",
+    "author": "poemes de leila el hakim",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنسية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 48
+  },
+  {
+    "id": 1637,
+    "name": "silver treasures from the land of sheba regional yemeni jewelry",
+    "author": "marjorie ranson",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 49
+  },
+  {
+    "id": 1638,
+    "name": "the house of the dead",
+    "author": "fyodor dostouevsky",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 50
+  },
+  {
+    "id": 1639,
+    "name": "diaries of a saudi officer- no one writes to the admiral",
+    "author": "umro alamery",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 51
+  },
+  {
+    "id": 1641,
+    "name": "david copperfield",
+    "author": "charles dickens",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 52
+  },
+  {
+    "id": 1642,
+    "name": "alexandria manual of abg interprbtation",
+    "author": "dr/a. aglan. md",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 53
+  },
+  {
+    "id": 1643,
+    "name": "family budget organizer",
+    "author": "0",
+    "libraryType": "ثقافية",
+    "section": "لغات",
+    "stand": 3,
+    "shelf": 10,
+    "number": 54
+  },
+  {
+    "id": 1644,
+    "name": "follow me",
+    "author": "faher daoud lamei",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 55
+  },
+  {
+    "id": 1645,
+    "name": "the old man and the sea",
+    "author": "ernest heminj way",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 56
+  },
+  {
+    "id": 1646,
+    "name": "فلسفة الترجمة",
+    "author": "محمد عباس مصطفي عبد المجيد",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية - انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 57
+  },
+  {
+    "id": 1647,
+    "name": "by the rivers of babylon",
+    "author": "amel m. jibarah",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 58
+  },
+  {
+    "id": 1648,
+    "name": "1984",
+    "author": "jeorge orwell",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 59
+  },
+  {
+    "id": 1649,
+    "name": "by the rivers of babylon",
+    "author": "amel m. jibarah",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 60
+  },
+  {
+    "id": 1650,
+    "name": "constitution egyptienne de 2014",
+    "author": "mohamed chawki",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنسية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 61
+  },
+  {
+    "id": 1651,
+    "name": "the life of simon peter",
+    "author": "father daoud lamei",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 62
+  },
+  {
+    "id": 1652,
+    "name": "fairb connaitre l lslam- apercu simplifie sur les fondements principaux de l lslam",
+    "author": "atyya saqr",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنسية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 63
+  },
+  {
+    "id": 1653,
+    "name": "novel human pains",
+    "author": "tarek aly mostafa",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 64
+  },
+  {
+    "id": 1654,
+    "name": "all the battles",
+    "author": "maan abu taleb",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 65
+  },
+  {
+    "id": 1655,
+    "name": "the arab sp(ring) lit",
+    "author": "mohamed taha",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 66
+  },
+  {
+    "id": 1656,
+    "name": "essential english for foreign students book 4",
+    "author": "c. a. eckersley",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 67
+  },
+  {
+    "id": 1657,
+    "name": "essential english for foreign students book 3",
+    "author": "c. a. eckersley",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 68
+  },
+  {
+    "id": 1658,
+    "name": "essential english for foreign students book 2",
+    "author": "c. a. eckersley",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 69
+  },
+  {
+    "id": 1659,
+    "name": "essential english for foreign students book 1",
+    "author": "c. a. eckersley",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 70
+  },
+  {
+    "id": 1660,
+    "name": "a jerusalem antholojy travel writing through the centuries",
+    "author": "t. j. gorton",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 10,
+    "number": 71
+  },
+  {
+    "id": 1661,
+    "name": "tombes thebaines - la necropole de deir el - medineh",
+    "author": "bernard bruyere",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنساوي",
+    "stand": 3,
+    "shelf": 11,
+    "number": 1
+  },
+  {
+    "id": 1662,
+    "name": "margo veillon drawing egypt",
+    "author": "margoveillon",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 2
+  },
+  {
+    "id": 1663,
+    "name": "la zone miniere pharaonique du cud- sinai - ll",
+    "author": "piere tallek",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنسية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 3
+  },
+  {
+    "id": 1664,
+    "name": "un dossier fiscal hdrmopolitain d. epoque romaine",
+    "author": "ruey- lin chang",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنسية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 4
+  },
+  {
+    "id": 1665,
+    "name": "balat xi-11 بلاط",
+    "author": "clara jeuthe",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنسسية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 5
+  },
+  {
+    "id": 1666,
+    "name": "brehistoric human cultures ln egypt",
+    "author": "unesco cairo office- egsma",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 6
+  },
+  {
+    "id": 1667,
+    "name": "lecture note ln principles of the flu id mechanics",
+    "author": "by: dr. mohamed nabil ali",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 7
+  },
+  {
+    "id": 1668,
+    "name": "construction management",
+    "author": "dr. said a. mahrous",
+    "libraryType": "ثقافية",
+    "section": "لغة انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 8
+  },
+  {
+    "id": 1669,
+    "name": "monasteres et sites monastiques d. egypte",
+    "author": "mauriee martin s. j.",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنسية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 9
+  },
+  {
+    "id": 1670,
+    "name": "poetique de leloge",
+    "author": "mohammed bakhouch",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنسية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 10
+  },
+  {
+    "id": 1671,
+    "name": "lecture note ln the principles of the fluid mechanics",
+    "author": "dr. wael nashaat",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 11
+  },
+  {
+    "id": 1672,
+    "name": "the historic photos of firefighters",
+    "author": "ashref siam",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 12
+  },
+  {
+    "id": 1673,
+    "name": "lecture note ln structure analysis l",
+    "author": "dr. mohamed nabil ali",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 13
+  },
+  {
+    "id": 1674,
+    "name": "some monuments of the old kingdom in the field mus eum of natural history- chicago",
+    "author": "edward brovarski",
+    "libraryType": "ثقافية",
+    "section": "لغة انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 14
+  },
+  {
+    "id": 1675,
+    "name": "tu tankhamun- an artists coloring book",
+    "author": "dominique navarro",
+    "libraryType": "ثقافية",
+    "section": "لغة انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 15
+  },
+  {
+    "id": 1676,
+    "name": "marketing plan manual corporate management",
+    "author": "dr. abdel rahman tawfik",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 16
+  },
+  {
+    "id": 1677,
+    "name": "the jew of alexandria",
+    "author": "by tawfik ali mansour",
+    "libraryType": "ثقافية",
+    "section": "لغة انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 17
+  },
+  {
+    "id": 1678,
+    "name": "la justice transitionnelle",
+    "author": "----",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنسية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 18
+  },
+  {
+    "id": 1679,
+    "name": "plastic analysis & design",
+    "author": "prof. dr. mohamed ahmed kassam",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 19
+  },
+  {
+    "id": 1680,
+    "name": "reinforced concrate structures (analysis & design ) volume 1",
+    "author": "prof. dr. mohamed ahmed kassem",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 20
+  },
+  {
+    "id": 1681,
+    "name": "basic skills in physical education for kindergarten",
+    "author": "by eman farshad",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 21
+  },
+  {
+    "id": 1682,
+    "name": "the twice born and the twice died- a poetic drama",
+    "author": "tawfik ali mansour",
+    "libraryType": "ثقافية",
+    "section": "لغة انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 22
+  },
+  {
+    "id": 1683,
+    "name": "150 years of egyptian postage 1866-2016",
+    "author": "zeitouna",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 23
+  },
+  {
+    "id": 1684,
+    "name": "how to simplify the scientific writing",
+    "author": "dr. aman abdel samiaa ali hussein alam",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 24
+  },
+  {
+    "id": 1685,
+    "name": "jbuilder essentials",
+    "author": "cary jensen",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 25
+  },
+  {
+    "id": 1686,
+    "name": "طريقك الي اتقان windows98 office 97",
+    "author": "عمرو عناني",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية-عربية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 26
+  },
+  {
+    "id": 1687,
+    "name": "in the company of the prophet",
+    "author": "dr salaman al oadah",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 27
+  },
+  {
+    "id": 1688,
+    "name": "literary and cultural translation",
+    "author": "abdelhamid elewa",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية- عربية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 28
+  },
+  {
+    "id": 1689,
+    "name": "the eucharist",
+    "author": "by father daoud lamei",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 29
+  },
+  {
+    "id": 1690,
+    "name": "corporate eccounting",
+    "author": "hamdy mahmoud kadous phd",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 30
+  },
+  {
+    "id": 1691,
+    "name": "the proceedings of the first international conference",
+    "author": "ain shams",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 31
+  },
+  {
+    "id": 1692,
+    "name": "ecotourism in egypt",
+    "author": "dr. m.a.zahran",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 32
+  },
+  {
+    "id": 1693,
+    "name": "moto expression for child",
+    "author": "dr/ eman hashad",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 33
+  },
+  {
+    "id": 1694,
+    "name": "comparative litarature",
+    "author": "dr. nabila ali marzouk",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 34
+  },
+  {
+    "id": 1695,
+    "name": "the jew of alexandria",
+    "author": "by tawfik ali mansour (ph.d)",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 35
+  },
+  {
+    "id": 1696,
+    "name": "wuthering heights",
+    "author": "by amily bronte",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 36
+  },
+  {
+    "id": 1697,
+    "name": "مختارات شعرية",
+    "author": "فاروق جويدة",
+    "libraryType": "ثقافية",
+    "section": "لغات يونانية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 37
+  },
+  {
+    "id": 1698,
+    "name": "lectures in the history of english literature",
+    "author": "dr. amany a. el-diasty",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 38
+  },
+  {
+    "id": 1699,
+    "name": "la transgresion pragma- linguistica",
+    "author": "dr. manar ahmed el halwany",
+    "libraryType": "ثقافية",
+    "section": "لغات اسبانية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 39
+  },
+  {
+    "id": 1700,
+    "name": "tell this in my memory",
+    "author": "eve m. troutt powell",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 40
+  },
+  {
+    "id": 1701,
+    "name": "cairo modern",
+    "author": "naguib mahfouz",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 41
+  },
+  {
+    "id": 1702,
+    "name": "american univeisities abroad",
+    "author": "edited by ted purinton",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 42
+  },
+  {
+    "id": 1703,
+    "name": "jerusalem without god",
+    "author": "paola caridi",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 43
+  },
+  {
+    "id": 1704,
+    "name": "the early cobtic papacy",
+    "author": "stephen j. davis",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 44
+  },
+  {
+    "id": 1705,
+    "name": "the harafish",
+    "author": "auc press",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 45
+  },
+  {
+    "id": 1706,
+    "name": "jonas nazarath",
+    "author": "editora rangel",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنسية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 46
+  },
+  {
+    "id": 1707,
+    "name": "the house of the deab",
+    "author": "m.kpublishing distribution",
+    "libraryType": "ثقافية",
+    "section": "لغة انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 47
+  },
+  {
+    "id": 1708,
+    "name": "by the rivers of babylon",
+    "author": "amelm.jibarbh",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 48
+  },
+  {
+    "id": 1709,
+    "name": "bled dry",
+    "author": "abdelilah hamdouchi",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 49
+  },
+  {
+    "id": 1710,
+    "name": "the ldeolojical battlefield",
+    "author": "egypts dar- al- lftaa",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 50
+  },
+  {
+    "id": 1711,
+    "name": "sahabat nabi saw- antara-para pemuja dan pencaci",
+    "author": "dr. talat muhammad afifi",
+    "libraryType": "ثقافية",
+    "section": "لغات اندونسية - ملزيا - عربي",
+    "stand": 3,
+    "shelf": 11,
+    "number": 51
+  },
+  {
+    "id": 1712,
+    "name": "dreams of departure",
+    "author": "naguib mahfouz",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 52
+  },
+  {
+    "id": 1713,
+    "name": "oliver twist",
+    "author": "charles dickens",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 53
+  },
+  {
+    "id": 1714,
+    "name": "a tale of two cities",
+    "author": "charles dickens",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 54
+  },
+  {
+    "id": 1715,
+    "name": "black magic",
+    "author": "hamdy el- gazzar",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 55
+  },
+  {
+    "id": 1716,
+    "name": "inadvertently omitted",
+    "author": "amani hafiz",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 56
+  },
+  {
+    "id": 1717,
+    "name": "la cantadora \"the storyteller\" poetry",
+    "author": "samar ali",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 57
+  },
+  {
+    "id": 1718,
+    "name": "a historical guide to cavafys alexandria",
+    "author": "kyriakos savvopoulos",
+    "libraryType": "ثقافية",
+    "section": "لغة انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 58
+  },
+  {
+    "id": 1719,
+    "name": "the collar and the bracelet",
+    "author": "yahya taher abdullah",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 59
+  },
+  {
+    "id": 1720,
+    "name": "poor",
+    "author": "ldris ali",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 60
+  },
+  {
+    "id": 1721,
+    "name": "constitution egyotienne de 2014",
+    "author": "mohamed chawki",
+    "libraryType": "ثقافية",
+    "section": "لغات فرنسية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 61
+  },
+  {
+    "id": 1722,
+    "name": "تعلم واحترف بسهولة java",
+    "author": "عزب محمد عزب",
+    "libraryType": "ثقافية",
+    "section": "لغات عربية- انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 62
+  },
+  {
+    "id": 1723,
+    "name": "i`m human",
+    "author": "---",
+    "libraryType": "ثقافية",
+    "section": "لغات انجليزية",
+    "stand": 3,
+    "shelf": 11,
+    "number": 63
+  },
+  {
+    "id": 1724,
+    "name": "علم النباتات العصارية",
+    "author": "فيصل سعداوي",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 1
+  },
+  {
+    "id": 1725,
+    "name": "أسس الميكانيكا السماوية",
+    "author": "خضر حامد الأحمد",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 2
+  },
+  {
+    "id": 1726,
+    "name": "الميكانيكا النظرية الأستاتيكاو الديناميكا",
+    "author": "أحمد صادق القرماني",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 3
+  },
+  {
+    "id": 1727,
+    "name": "مقدمة في الإحصاء",
+    "author": "محمد صبحي أبو صالح",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 4
+  },
+  {
+    "id": 1728,
+    "name": "أسرار الحياة والكون",
+    "author": "وليد هـ . شور",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 5
+  },
+  {
+    "id": 1730,
+    "name": "نشأة الحياة  علي كوكب الأرض",
+    "author": "يعقوب يوسف أبونا",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 6
+  },
+  {
+    "id": 1731,
+    "name": "الأسسس العملي للفريات",
+    "author": "عبدالله بن صالح الخليل",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 7
+  },
+  {
+    "id": 1732,
+    "name": "عجائب الحقائق العلمية",
+    "author": "جايمس ترفيل",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 8
+  },
+  {
+    "id": 1733,
+    "name": "المفهوم الحديث للمكان والزمان",
+    "author": "ب . س . ديفيز",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 9
+  },
+  {
+    "id": 1734,
+    "name": "الأرض في دوامة الخطر",
+    "author": "محمود مصطفي",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 10
+  },
+  {
+    "id": 1735,
+    "name": "أساسيات وخرائط الجيولوجيه",
+    "author": "نعيم أحمد شعت",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 11
+  },
+  {
+    "id": 1736,
+    "name": "التقاويم",
+    "author": "محمد محمد فياض",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 12
+  },
+  {
+    "id": 1737,
+    "name": "المساحة بين العلم والتطبيق وفن التخطيط",
+    "author": "نشأت السعيد عبدالحميد عجلان",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 13
+  },
+  {
+    "id": 1738,
+    "name": "مبادئ الرياضيات",
+    "author": "هيثم حسين عميش",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 14
+  },
+  {
+    "id": 1739,
+    "name": "الجيولوجيا الطبيعية",
+    "author": "عادل رمضان مصطفي",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 15
+  },
+  {
+    "id": 1740,
+    "name": "الطراس العلمي العربي",
+    "author": "شريف الأنصاري",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 16
+  },
+  {
+    "id": 1741,
+    "name": "المساحة الطبوغرفيه والتصويريه",
+    "author": "عصام محمد فواز",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 17
+  },
+  {
+    "id": 1742,
+    "name": "العلوم والمستقبل كراسة تدريبات والأنشطة",
+    "author": "محمد المتولي غنيم",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 18
+  },
+  {
+    "id": 1743,
+    "name": "الكسوف والخسوف",
+    "author": "زين العابدين متولي",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 19
+  },
+  {
+    "id": 1744,
+    "name": "تفاعلات المياه والمناخ والإنسان في مصر (إعادة التشكيل من أجل اقتصاد متواصل)",
+    "author": "معهد التخطيط القومي",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 20
+  },
+  {
+    "id": 1745,
+    "name": "التحليل الإحصائي المتقدم  بإستخدام مايكروسوف إكسل",
+    "author": "مصطفي حسين باهي",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 21
+  },
+  {
+    "id": 1746,
+    "name": "علوم الرياضيات",
+    "author": "أسامة عبدالرحمن",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 22
+  },
+  {
+    "id": 1747,
+    "name": "الأطياف السبعة للنجاح",
+    "author": "علي بن عبدالله الزهراني",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 23
+  },
+  {
+    "id": 1748,
+    "name": "كيمياء الغلاف الجوي",
+    "author": "أسامة عبدالرحمن",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 24
+  },
+  {
+    "id": 1749,
+    "name": "المساحة بين العلم والتطبيق وفن التخطيط",
+    "author": "نشأت السعيد عبدالحميد عجلان",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 25
+  },
+  {
+    "id": 1750,
+    "name": "أزمة المياه في العراق ودول مجلس التعاون الخليجي",
+    "author": "كاظم موسي محمد الطائي",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 26
+  },
+  {
+    "id": 1751,
+    "name": "سلوك المستهلك",
+    "author": "مصطفي محمود أبو بكر",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 27
+  },
+  {
+    "id": 1752,
+    "name": "ما يحبه الرجال في النساء",
+    "author": "عايده أحمد جلال",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 28
+  },
+  {
+    "id": 1753,
+    "name": "ما يكرهه الرجال في النساء",
+    "author": "عايده أحمد جلال",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 29
+  },
+  {
+    "id": 1754,
+    "name": "الخيارات الذكية",
+    "author": "جون هاموند",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 30
+  },
+  {
+    "id": 1755,
+    "name": "حكايات في العلم والحياه موضوعات علمية غريبة ومثيرة ورائعة",
+    "author": "مايكل جروس",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 31
+  },
+  {
+    "id": 1756,
+    "name": "مشكلة الفيزياء نهضة نظرية الأوتار وأنحضار العلم وما يأتي لاحقا",
+    "author": "لي سمولن",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 32
+  },
+  {
+    "id": 1757,
+    "name": "الحيوانات وأهميتها الإقتصادية",
+    "author": "طارق غريب علي",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 33
+  },
+  {
+    "id": 1758,
+    "name": "كلام البنات اللمسة الأخيرة",
+    "author": "جمال ماضي",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبييقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 34
+  },
+  {
+    "id": 1759,
+    "name": "السعادة الزوجية المستحيل الممكن",
+    "author": "دعاء راجح",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 35
+  },
+  {
+    "id": 1760,
+    "name": "المريخ في إنتظارنا",
+    "author": "سعد شعبان",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 36
+  },
+  {
+    "id": 1761,
+    "name": "الزلازل وتوابعها",
+    "author": "محمد الشرقاوي",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 37
+  },
+  {
+    "id": 1762,
+    "name": "درب التبانه",
+    "author": "طارق كامل",
+    "libraryType": "ثقافية",
+    "section": "علوم تطبيقية",
+    "stand": 3,
+    "shelf": 12,
+    "number": 38
   }
 ]
