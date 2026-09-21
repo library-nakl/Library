@@ -23,8 +23,10 @@ import json
 import sys
 from pathlib import Path
 
-SOURCE_PATH = Path("/mnt/user-data/uploads/books-from-db.json")
-OUTPUT_PATH = Path("/mnt/user-data/outputs/books-from-db-converted.json")
+BASE_DIR = Path(__file__).resolve().parent
+
+SOURCE_PATH = BASE_DIR / "books-db.json"
+OUTPUT_PATH = BASE_DIR / "books.json"
 
 
 def clean_text(value: str) -> str:
