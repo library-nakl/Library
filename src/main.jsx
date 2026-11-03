@@ -154,7 +154,7 @@ function App() {
                 {paginatedResults.map((book) => (
                   <article className="book-card" key={book.id} onClick={() => setSelectedBook(book)}>
                     <div className="book-top">
-                      {book.libraryType === 'إليكترونية' ? 
+                      {book.libraryType === 'إلكترونية' ? 
                         <span className="book-mark">💾</span> : 
                         <span className="book-mark">📖</span>}
                       {book.libraryType && <span className="badge">{book.libraryType}</span>}
@@ -164,7 +164,7 @@ function App() {
                     {book.section && <p className="section">القسم: {book.section}</p>}
 
                     <div className="location">
-                      {book.libraryType === 'إليكترونية' ? 
+                      {book.libraryType === 'إلكترونية' ? 
                         <div className="location-title">📍 مكان الموضوع</div> : 
                         <div className="location-title">📍 مكان الكتاب</div>}
                       <div className="location-grid">
@@ -193,13 +193,13 @@ function App() {
               {selectedBook.section && <div><span>القسم</span><strong>{selectedBook.section}</strong></div>}
             </div>
             <div className="big-location">
-              {selectedBook.libraryType === 'إليكترونية' ? 
+              {selectedBook.libraryType === 'إلكترونية' ? 
                 <h3>📍 موقع الموضوع</h3> : 
                 <h3>📍 موقع الكتاب</h3>}
               <div className="location-grid">
                 <div><small>الستاند</small><b>{selectedBook.stand ?? '-'}</b></div>
                 <div><small>الرف</small><b>{selectedBook.shelf ?? '-'}</b></div>
-                <div><small>رقم {selectedBook.libraryType === 'إليكترونية' ? 'الموضوع' : 'الكتاب'}</small><b>{selectedBook.number ?? '-'}</b></div>
+                <div><small>رقم {selectedBook.libraryType === 'إلكترونية' ? 'الموضوع' : 'الكتاب'}</small><b>{selectedBook.number ?? '-'}</b></div>
               </div>
             </div>
           </div>
